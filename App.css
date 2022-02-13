@@ -1,0 +1,20 @@
+.App{
+  display:flex;
+  justify-content: space-around;
+  height:100vh;
+  align-items: center;
+}
+.controls{
+  width:40vw;
+  justify-content: space-between;
+}
+.box{
+  width:40vw;
+  height:50vh;
+  background-color: rgb(134, 8, 251);
+  color:azure;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
